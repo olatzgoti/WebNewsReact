@@ -3,7 +3,7 @@ import { GlobalProvider } from './context/GlobalState'
 import Footer from './components/footer/Footer'
 import Header from './components/header/Header'
 import Home from './components/home/Home'
-import NewsList from './components/listNews/ListNews'
+import NewsList from './components/listNews/NewsList'
 import Form from './components/form/Form'
 
 function App() {

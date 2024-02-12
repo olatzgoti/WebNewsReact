@@ -32,15 +32,12 @@ const ListNews = () => {
         })
   } */
 
-  return (
- 
-    news && news.map(new=>(
+return (
 
+  { news } 
+  //<h1>hola q tal </h1>
 
-
-    ))
-  )
-}
+)}
 
 export default ListNews
 /*{news}
