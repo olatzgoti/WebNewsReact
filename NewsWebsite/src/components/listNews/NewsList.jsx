@@ -10,7 +10,7 @@ const NewsList = () => {
 
 
   return (
-    news && news.map(item => <p>{item.title}</p> )
+    news && news.map(item => {<p>{item.title}</p>, <p>{item.section}</p>, <p>{item.source}</p>})
 
 
    )
